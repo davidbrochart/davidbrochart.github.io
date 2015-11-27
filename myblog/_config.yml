@@ -1,0 +1,16 @@
+# Site settings
+title: David Brochart's blog
+email: david.brochart@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Hydrology, programming, visualization.
+  I use free satellite data and simple models to see what's happening
+  in rivers on Earth.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: davidbrochart
+github_username:  davidbrochart
+
+# Build settings
+markdown: kramdown
+
+highlighter: pygments
