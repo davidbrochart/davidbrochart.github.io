@@ -1,0 +1,7 @@
+---
+layout: post
+title:  Bayesian methods for hydrological model parameter inference
+date:   2017-03-01 18:00:00
+categories: mcmc
+---
+{% include mcmc.html %}
